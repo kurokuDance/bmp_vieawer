@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="basewin.h">
+      <Filter>исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="BMP.h">
+      <Filter>исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="mainWin.h">
+      <Filter>исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="исходные файлы">
+      <UniqueIdentifier>{f32f9e52-c78c-4f57-a237-d77502f66dd3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

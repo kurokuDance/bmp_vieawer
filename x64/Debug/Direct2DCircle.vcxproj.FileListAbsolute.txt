@@ -1,0 +1,2 @@
+C:\Users\Pavel\Desktop\bmp_workBLT_and1CH\x64\Debug\openBMP.exe
+C:\Users\Pavel\Desktop\bmp_workBLT_and1CH\x64\Debug\openBMP.pdb

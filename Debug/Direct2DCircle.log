@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Direct2DCircle.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  main.cpp
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(32,5): warning C4996: 'uint32': libtiff type deprecated; please use corresponding C99 stdint.h type
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(60,9): warning C4996: 'uint32': libtiff type deprecated; please use corresponding C99 stdint.h type
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(64,19): warning C4996: 'uint32': libtiff type deprecated; please use corresponding C99 stdint.h type
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(64,56): warning C4996: 'uint32': libtiff type deprecated; please use corresponding C99 stdint.h type
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(68,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(69,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(140,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(152,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(153,48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(162,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(164,48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(178,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(180,48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\BMP.h(53,9): warning C4101: k: неиспользованная локальная переменная
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\mainWin.h(225,29): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Direct2DCircle.vcxproj -> C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\openBMP.exe

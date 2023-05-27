@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ TIFFOpen в функции "public: void __cdecl BMP::readBMPFile(char const * &)" (?readBMPFile@BMP@@QEAAXAEAPEBD@Z).
+C:\Libs\tiff_x86-windows\lib\tiff.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Pavel\Desktop\bmp_workBLT_and1CH\x64\Debug\openBMP.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

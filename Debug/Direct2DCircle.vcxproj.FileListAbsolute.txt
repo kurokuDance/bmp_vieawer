@@ -1,0 +1,13 @@
+C:\Users\Pavel\Desktop\Direct2DCircle\cpp\Debug\Direct2DCircle.exe
+C:\Users\Pavel\Desktop\Direct2DCircle\cpp\Debug\Direct2DCircle.pdb
+C:\Users\Pavel\Desktop\bmp\Debug\openBMP.exe
+C:\Users\Pavel\Desktop\bmp\Debug\openBMP.pdb
+C:\Users\Pavel\Desktop\bmp_workBLT_and1CH\Debug\openBMP.exe
+C:\Users\Pavel\Desktop\bmp_workBLT_and1CH\Debug\openBMP.pdb
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\openBMP.exe
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\openBMP.pdb
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\Direct2DCircle.vcxproj.CopyComplete
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\tiff.dll
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\zlib1.dll
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\jpeg62.dll
+C:\Институт\ФОТОН\bmp_workBLT_and1CH\Debug\liblzma.dll
